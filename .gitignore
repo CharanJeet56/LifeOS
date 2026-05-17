@@ -1,0 +1,14 @@
+# Claude Code local settings
+.claude/
+
+# Supabase local dev
+supabase/.branches
+supabase/.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
